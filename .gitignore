@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 
 secrets.json
+.DS_Store
