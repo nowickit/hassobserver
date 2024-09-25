@@ -1,0 +1,22 @@
+{
+    "sensors": [
+        {
+            "api_path": "/api/states/switch.ogrzewanie",
+            "metric": "tno_hass_ogrzewanie"
+        },
+        {
+            "api_path": "/api/states/sensor.multisensor_6_air_temperature",
+            "metric": "tno_hass_out_temp"
+        },
+        {
+            "api_path": "/api/states/sensor.termometr_temperature",
+            "metric": "tno_hass_in_temp"
+        },
+        {
+            "api_path": "/api/states/sensor.system_monitor_memory_usage",
+            "metric": "tno_hass_mem"
+        }
+
+    ]
+}
+
