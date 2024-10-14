@@ -42,7 +42,7 @@ This script facilitates the collection of sensor data from a Home Assistant inst
 
    ```bash
    screen -S hass_to_signalfx
-   python3 script.py
+   python3 hassobserver.py
    ```
 
 This will start the script inside a screen session named hass_to_signalfx.
